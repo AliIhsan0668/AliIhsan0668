@@ -4,21 +4,10 @@
 
 - 🌱 Şu anda öğreniyorum: **Python**
 
----
-
-### 📊 GitHub İstatistiklerim:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githubkullaniciadın&show_icons=true&theme=tokyonight" alt="istatistikler" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=githubkullaniciadın&theme=tokyonight" alt="commit serisi" />
-</p>
-
----
-
 ### 🌐 Sosyal Medya:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kullaniciadi)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliIhsan0668)
 
 ---
 
-> Bu profil sürekli gelişmektedir. Uğradığın için teşekkür ederim! 😊
+> Bu profil sürekli gelişecek. Uğradığın için teşekkür ederim! Uğramaya devam et😊
